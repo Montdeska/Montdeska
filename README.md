@@ -1,5 +1,5 @@
 # Abraham Montelongo
-Hi, I'm an Android Developer & UI Designer working on [Fintecimal](https://fintecimal.com). Previously I worked in CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
+Hi, I'm an Android Developer & UI Designer working on [Fintecimal](https://fintecimal.com). Previously I worked on CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
 
 ## Skills 🚀 
 Android | UI Design | Coding | Teamwork
