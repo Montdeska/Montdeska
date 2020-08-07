@@ -21,7 +21,5 @@ MVVM, MVP<br> RxJava, RxAndroid, RxBinding<br>Retrofit, Gson, Rest API's<br> Esp
 
 
 ## Get in touch
-- LinkedIn: https://linkedin/in/montdeska
-- Twitter: https://twitter.com/montdeska
-- Dribbble: https://dribbble.com/montdeska
-- My site: https://abrahammontelongo.com
+
+[<img src = "https://img.shields.io/badge/dribbble-%23E4405F.svg?&style=for-the-badge&logo=dribbble&logoColor=white">](https://www.dribbble.com/montdeska/)[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/montdeska) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/montdeska) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/abra.haham) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abrahammontelongo.com) ![Visits Badge](https://badges.pufler.dev/visits/montdeska/montdeska?style=for-the-badge ) 
