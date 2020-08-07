@@ -1,6 +1,10 @@
 # Abraham Montelongo
 Hi, I'm an Android Developer & UI Designer working on [Fintecimal](https://fintecimal.com). Previously I worked on CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
 
+## Get in touch
+
+[<img src = "https://img.shields.io/badge/dribbble-%23E4405F.svg?&style=for-the-badge&logo=dribbble&logoColor=white">](https://www.dribbble.com/montdeska/)[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/montdeska) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/montdeska) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/abra.haham) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abrahammontelongo.com) ![Visits Badge](https://badges.pufler.dev/visits/montdeska/montdeska?style=for-the-badge ) 
+
 ## Skills 🚀 
 Android | UI Design | Coding | Teamwork
 ---- | ---- | ---- | ----
@@ -17,9 +21,3 @@ MVVM, MVP<br> RxJava, RxAndroid, RxBinding<br>Retrofit, Gson, Rest API's<br> Esp
 - [Designing Data-Intesive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intesive+Applications&qid=1596217679&sr=8-1): The Big Ideas behing Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=Clean+Architecture&qid=1596217701&sr=8-1) by Robert C. Martin 
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=pd_sbs_14_1/133-5012501-0377937?_encoding=UTF8&pd_rd_i=0132350882&pd_rd_r=74848f5f-8cf8-4732-b430-34871b08c2cb&pd_rd_w=XDoK1&pd_rd_wg=dtMjJ&pf_rd_p=0b2db3d1-33eb-418a-9672-bb9bd54808e8&pf_rd_r=W1ETZM3QGV6SJ1PEJV0G&psc=1&refRID=W1ETZM3QGV6SJ1PEJV0G) bt Robert C. Martin
-
-
-
-## Get in touch
-
-[<img src = "https://img.shields.io/badge/dribbble-%23E4405F.svg?&style=for-the-badge&logo=dribbble&logoColor=white">](https://www.dribbble.com/montdeska/)[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/montdeska) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/montdeska) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/abra.haham) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://abrahammontelongo.com) ![Visits Badge](https://badges.pufler.dev/visits/montdeska/montdeska?style=for-the-badge ) 
