@@ -1,5 +1,5 @@
 # Abraham Montelongo
-Hi, I'm an Android Developer & UI Designer working on [Fintecimal](https://fintecimal.com). Previously I worked on CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
+Hi, I'm a UX Designer & Android Developer working at Luxoft. Previously I worked at Fintecimal, CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
 
 ## Get in touch
 
