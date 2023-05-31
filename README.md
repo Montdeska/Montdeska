@@ -1,5 +1,5 @@
 # Abraham Montelongo
-Hi, I'm a UX Designer & Android Developer working at Luxoft. Previously I worked at Fintecimal, CityDrive, Amplemind and DragonsDev. I live in Guadalajara, Jalisco, México but I'm from Torreón, Coahuila.
+Hi, I'm a Product Designer & Android Developer working at Housecall Pro. Previously I worked at Luxoft. I live in Guadalajara, Jalisco, México.
 
 ## Get in touch
 
@@ -12,9 +12,10 @@ MVVM, MVP<br> RxJava, RxAndroid, RxBinding<br>Retrofit, Gson, Rest API's<br> Esp
 <br> Learning <br>Jetpack Compose <br> Kotlin Coroutines/Flow <br> Jetpack Hilt | Learning <br> UX Best Practices <br> FramerJS <br>|Learning <br> Gatsby JS<br>  Netlify
 
 ## Books I'm reading 📖    
-- [The Pragmatic Programer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook-dp-B07VRS84D1/dp/B07VRS84D1/ref=mt_other?_encoding=UTF8&me=&qid=1597160270):your journey to mastery, 20th Anniversary Edition 2nd Edition by David Thomas & Andrew Hunt
+- [Diseño desde Marte](https://disenodesdemarte.com/):Manual de diseño de producto digital by Cris Busquets
 - [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B06XCCZJ4L/ref=sr_1_1?dchild=1&keywords=The+Design+of+Everyday+Things&qid=1597160307&s=digital-text&sr=1-1):Revised and Expanded Edition by Don Norman
-### Next Books to read 📚    
+### Next Books to read 📚
+- [The Pragmatic Programer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook-dp-B07VRS84D1/dp/B07VRS84D1/ref=mt_other?_encoding=UTF8&me=&qid=1597160270):your journey to mastery, 20th Anniversary Edition 2nd Edition by David Thomas & Andrew Hunt
 - [Bottlenecks](https://www.amazon.com/Bottlenecks-Aligning-Design-User-Psychology-ebook/dp/B06W2J32CK/ref=sr_1_1?dchild=1&keywords=Bottlenecks%3A+Aligning+UX+Design+with+User+Psychology&qid=1596217572&sr=8-1): Aligning UX Design with User Psychology by David C. Evans
 - [CSS Secrets](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/ref=sr_1_1?dchild=1&keywords=CSS+Secrets%3A+Better+Solutions+to+Everyday+Problems&qid=1596217635&sr=8-1): Better Solutions to Everyday Problems by Lea Verou
 - [Reactive Programming with RxJava](https://www.amazon.com/Reactive-Programming-RxJava-Asynchronous-Applications/dp/1491931655/ref=sr_1_fkmr0_1?dchild=1&keywords=Reactive+Programming+with+RxJava%3A+Creating+Asynchronos%C2%A1us%2C+Event-Based+Applications&qid=1596217657&sr=8-1-fkmr0): Creating Asynchronous, Event-Based Applications by Tomasz Nurkiewicz & Ben Christensen
